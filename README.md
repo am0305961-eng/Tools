@@ -13,3 +13,9 @@ The author is not responsible for misuse.
 
 ## Author
 DrFox
+
+## Usage
+
+```bash
+python3 main.py
+```
